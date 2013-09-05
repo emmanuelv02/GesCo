@@ -14,6 +14,7 @@
         <style>
             #mensual {
                 width: 300px;
+               /*Aqui agregue este comentario*/
             }
             #anual {
 
@@ -86,6 +87,7 @@
                                         <option>Noviembre</option>
                                         <option>Diciembre</option>
                                     </select>
+                                    <!--Aqui agregue este otro comentario -->
                                 </div>
                                 <div class="form-group">
                                     <label for="tipoTransa">Tipo Transaccion: </label>
